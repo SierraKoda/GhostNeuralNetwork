@@ -1,0 +1,292 @@
+planning for c#&&node.js deep learning cipher builder
+
+
+
+using System;
+using System.Draw;
+using System.IO;
+using System.Collections.Generic;
+using System.Linq;
+using System.Math;
+using System.Net;
+using System.Web;
+using System.Draw3D;
+using System.Security.Cryptography;
+
+public namespace GhostNeuralNetwork{
+	
+	public class activator(){
+		
+	}
+	
+	public class autorun(){
+		
+	}
+	
+	public class neuralmap(){
+		
+	}
+	
+	public class driftVariance(){
+		
+	}
+	
+	public class parameterAssignment(){
+		
+	}
+	
+	public class drawLinear(){
+		
+	}
+	
+	public class propagantMath(){
+		
+	}
+	
+	public class propagantAdjustment(){
+		
+	}
+	
+	public class varianceShift(){
+		
+	}
+	
+  public class scalarDraw(){
+		
+	}	
+	
+	public class alignmentBoolean(){
+		
+	}
+	
+	public class testRefference(){
+		
+	}
+	
+	public class writeIO(){
+		
+	}
+	
+	public class learnedWrite(){
+		
+	}
+	
+	public class schemaIO(){
+		
+	}
+	
+	public class schemaTrend(){
+		
+	}
+	
+	public class lessonAuth(){
+		
+	}
+	
+	public class lessonData(){
+		
+	}
+	
+  public class dataCipher(){
+		
+	}	
+	
+	public class dataCipherPlot(){
+		
+	}
+	
+	public class cipherReferencial(){
+		
+	}
+	
+	public class cipherSchema(){
+		
+	}
+	
+	public class assistedSchemaTrend(){
+		
+	}
+	
+	public class insideEncryption(){
+		
+	}
+	
+	public class getData(){
+		
+	}
+	
+	public class writeLinear(){
+		
+	}
+	
+	public class tokenHandler(){
+		
+	}
+	
+  public class tokenProvider(){
+		
+	}	
+	
+	public class IOExceptionHandlerNull(){
+		
+	}
+	
+	public class neuralnetworkRuntime(){
+		
+	}
+	
+	public class driftVarianceApplication(){
+		
+	}
+	
+	public class parameterAssignmentRequestIO(){
+		
+	}
+	
+	public class attemptDrawLinear(){
+		
+	}
+	
+	public class propagantMathAccessor(){
+		
+	}
+	
+	public class propagantAdjustmentApplication(){
+		
+	}
+	
+	public class varianceShiftInvolvement(){
+		
+	}
+	
+  public class scalarDrawRedraw(){
+		
+	}	
+	
+	public class scalarHeuristics(){
+		
+	}
+	
+	public class neuralRationalization(){
+		
+	}
+	
+	public class driftPlotAnalyzer(){
+		
+	}
+	
+	public class parameterIntegrityCheck(){
+		
+	}
+	
+	public class drawLinearVerifier(){
+		
+	}
+	
+	public class propagantMathHeuristics(){
+		
+	}
+	
+	public class propagantAdjustmentVerifier(){
+		
+	}
+	
+	public class varianceShiftIntegrityCheck(){
+		
+	}
+	
+  public class lessonApplicabilityHeuristucs(){
+		
+	}		
+	
+	public class schemaAppendWrite(){
+		
+	}
+	
+	public class neuralmapApprovalRequest(){
+		
+	}
+	
+	public class driftTrendDesignation(){
+		
+	}
+	
+	public class parameterSimilarLinkList(){
+		
+	}
+	
+	public class drawLinkageHabdler(){
+		
+	}
+	
+	public class schemaTrendMath(){
+		
+	}
+	
+	public class propagantIdentifierAssignments(){
+		
+	}
+	
+	public class varianceTrendDataIdentifier(){
+		
+	}
+	
+  public class scalarMapDataWrite(){
+		
+	}	
+	
+	public class learnedLessonVerifier(){
+		
+	}
+	
+  public class learnedLessonTrendDesignation(){
+		
+	}	
+	
+	public class learnedLessonRegardLog(){
+		
+	}
+	
+  public class lessonVarianceMap(){
+		
+	}	
+	
+	public class appliedMLDeepQuizMath(){
+		
+	}
+	
+  public class scalarEfficiencyMap(){
+		
+	}	
+	
+	public class outsideNorminativeSchema(){
+		
+	}
+	
+  public class lessonDeletionDerivationLogHandler(){
+		
+	}	
+	
+	public class async(){
+		
+		
+		
+	}
+	
+	public class messageIOReferencials(){
+		
+		
+	}
+	
+	public class authIO(){
+		
+		
+	}
+	
+	public class credentialsParser(){
+		
+		
+	}
+	
+	
+}

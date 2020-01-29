@@ -1,0 +1,281 @@
+GhostNeuralNetwork.js Planning articles for class architecture
+
+
+
+
+	
+	class activator(){
+		
+	}
+	
+	class autorun(){
+		
+	}
+	
+	class neuralmap(){
+		
+	}
+	
+	class driftVariance(){
+		
+	}
+	
+	class parameterAssignment(){
+		
+	}
+	
+	class drawLinear(){
+		
+	}
+	
+	class propagantMath(){
+		
+	}
+	
+	class propagantAdjustment(){
+		
+	}
+	
+	class varianceShift(){
+		
+	}
+	
+  class scalarDraw(){
+		
+	}	
+	
+	class alignmentBoolean(){
+		
+	}
+	
+	class testRefference(){
+		
+	}
+	
+	class writeIO(){
+		
+	}
+	
+	class learnedWrite(){
+		
+	}
+	
+	class schemaIO(){
+		
+	}
+	
+	class schemaTrend(){
+		
+	}
+	
+	class lessonAuth(){
+		
+	}
+	
+	class lessonData(){
+		
+	}
+	
+  class dataCipher(){
+		
+	}	
+	
+	class dataCipherPlot(){
+		
+	}
+	
+	class cipherReferencial(){
+		
+	}
+	
+	class cipherSchema(){
+		
+	}
+	
+	class assistedSchemaTrend(){
+		
+	}
+	
+	class insideEncryption(){
+		
+	}
+	
+	class getData(){
+		
+	}
+	
+	class writeLinear(){
+		
+	}
+	
+	class tokenHandler(){
+		
+	}
+	
+  class tokenProvider(){
+		
+	}	
+	
+	class IOExceptionHandlerNull(){
+		
+	}
+	
+	class neuralnetworkRuntime(){
+		
+	}
+	
+	class driftVarianceApplication(){
+		
+	}
+	
+	class parameterAssignmentRequestIO(){
+		
+	}
+	
+	class attemptDrawLinear(){
+		
+	}
+	
+	class propagantMathAccessor(){
+		
+	}
+	
+	class propagantAdjustmentApplication(){
+		
+	}
+	
+	class varianceShiftInvolvement(){
+		
+	}
+	
+  class scalarDrawRedraw(){
+		
+	}	
+	
+	class scalarHeuristics(){
+		
+	}
+	
+	class neuralRationalization(){
+		
+	}
+	
+	class driftPlotAnalyzer(){
+		
+	}
+	
+	class parameterIntegrityCheck(){
+		
+	}
+	
+	class drawLinearVerifier(){
+		
+	}
+	
+	class propagantMathHeuristics(){
+		
+	}
+	
+	class propagantAdjustmentVerifier(){
+		
+	}
+	
+	class varianceShiftIntegrityCheck(){
+		
+	}
+	
+  class lessonApplicabilityHeuristucs(){
+		
+	}		
+	
+	class schemaAppendWrite(){
+		
+	}
+	
+	class neuralmapApprovalRequest(){
+		
+	}
+	
+	class driftTrendDesignation(){
+		
+	}
+	
+	class parameterSimilarLinkList(){
+		
+	}
+	
+	class drawLinkageHabdler(){
+		
+	}
+	
+	class schemaTrendMath(){
+		
+	}
+	
+	class propagantIdentifierAssignments(){
+		
+	}
+	
+	class varianceTrendDataIdentifier(){
+		
+	}
+	
+  class scalarMapDataWrite(){
+		
+	}	
+	
+	class learnedLessonVerifier(){
+		
+	}
+	
+  class learnedLessonTrendDesignation(){
+		
+	}	
+	
+	class learnedLessonRegardLog(){
+		
+	}
+	
+  class lessonVarianceMap(){
+		
+	}	
+	
+	class appliedMLDeepQuizMath(){
+		
+	}
+	
+  class scalarEfficiencyMap(){
+		
+	}	
+	
+	class outsideNorminativeSchema(){
+		
+	}
+	
+  class lessonDeletionDerivationLogHandler(){
+		
+	}	
+	
+	class async(){
+		
+		
+		
+	}
+	
+	class messageIOReferencials(){
+		
+		
+	}
+	
+	class authIO(){
+		
+		
+	}
+	
+	class credentialsParser(){
+		
+		
+	}
+	
+	
+
