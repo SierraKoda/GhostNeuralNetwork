@@ -1,7 +1,7 @@
 GhostNeuralNetwork.js Planning articles for class architecture
 
-
-
+const console = require('console');
+const readline = require('readline'); const rl = readline.createInterface({ input: process.stdin, output: process.stdout }); 
 
 	
 	class activator(){
@@ -22,7 +22,7 @@ GhostNeuralNetwork.js Planning articles for class architecture
 			
 			if(this.e == assistedSchemaTrend(var equalsE)){
 				
-				console.log("Initial Variance Shift Of .93 For Parameter  " + this.e + " Logged For Runtime");
+				console.log('Initial Variance Shift Of .93 For Parameter  ' + this.e + ' Logged For Runtime');
 				if(this.align(rad) === raycast(a)){
 					this.e.transform(pos x + 2 ; pos y + 1 );
 				}
@@ -42,7 +42,8 @@ GhostNeuralNetwork.js Planning articles for class architecture
 			}
 			else if(this.e != assistedSchemaTrend(var noteqE)){
 				
-				console.log("Initial Variance Shift Of .34 For Parameter  " + this.e + " Logged For Runtime");
+				
+				console.log('Initial Variance Shift Of .34 For Parameter  ' + this.e + ' Logged For Runtime');
 				if(this.align(rad) === raycast(a)){
 					this.e.transform(pos x + 2 ; pos y + 1 );
 				}
@@ -61,7 +62,7 @@ GhostNeuralNetwork.js Planning articles for class architecture
 			}
 			else if(this.e <= assistedSchemaTrend(var lessthE)){
 			
-				console.log("Initial Variance Shift Of .09 For Parameter  " + this.e + " Logged For Runtime");
+				console.log('Initial Variance Shift Of .09 For Parameter  ' + this.e + ' Logged For Runtime');
 				if(this.align(rad) === raycast(a)){
 					this.e.transform(pos x + 2 ; pos y + 1 );
 				}
@@ -80,7 +81,7 @@ GhostNeuralNetwork.js Planning articles for class architecture
 			}
 			else if(this.e >= assistedSchemaTrend(var greaterE)){
 				
-				console.log("Initial Variance Shift Of .67 For Parameter  " + this.e + " Logged For Runtime");
+				console.log('Initial Variance Shift Of .67 For Parameter  ' + this.e + ' Logged For Runtime');
 				if(this.align(rad) === raycast(a)){
 					this.e.transform(pos x + 2 ; pos y + 1 );
 				}
@@ -107,6 +108,76 @@ GhostNeuralNetwork.js Planning articles for class architecture
 	}
 	
 	class parameterAssignment(){
+		
+		
+		rl.question('Parameter Clarification Variance Task Specific :: Please Input Qualifiers For Adjusted Learning Models One Line At A Time Or Type complete... ', (answer) => { 		
+		
+		if( ${answer} === null){
+			
+			console.log('Response Null, Attempting to Continue System Runtime Operations:: ...');
+			
+		}
+		else if( ${answer} === 'complete' || ${answer} === 'com' || ${answer} === 'done'){
+			
+			console.log('Completed Input for Parameter Listings, Continuing Runtime Cycle:: ...');	
+			
+		}
+		else if( ${answer} !== null && ${answer} !== '' && ${answer} !== 'complete' && ${answer} !== 'com' && ${answer} !== 'done'){
+			
+			
+			var n = 'next';
+			var m = 'move';
+			rl.question('', (answer) => {
+				
+			public var param1text = ${answer};
+			
+			}
+		
+			rl.question('If You Have Another Parameter, Please Type next Otherwise Please Type move And Press Return', (answer) => {
+				
+				
+				
+			}
+			var s = ${answer};
+			foreach(var n in var s){
+		
+			rl.question('Please Input Next Parameter:: ...', (answer) => {
+				
+				public var[] param == new public array[];
+				param[].indexOf(this) == ${answer};
+				
+				
+				
+		   	}	
+				
+			}
+			foreach(var m in var s){
+				
+				console.log('Continuing Runtime Cycle ...');
+				
+	
+				
+				
+			}
+			
+			rl.close();
+			
+		}
+		else if(throw exception){
+			
+			console.log('IOExceptionHandler Accessed. Error Code ' + IOExceptionHandlerNull.Value()  + '');
+					
+			
+		}
+		else{
+			
+			console.log('Exception Noted. Attempting Runttime Continuation...');
+			
+			
+		}
+		
+		
+		
 		
 	}
 	

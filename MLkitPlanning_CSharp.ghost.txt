@@ -113,6 +113,63 @@ public namespace GhostNeuralNetwork{
 	
 	public class parameterAssignment(){
 		
+		System.Console.WriteLine("Parameter Clarification Variance Task Specific :: Please Input Qualifiers For Adjusted Learning Models One Line At A Time Or Type 'complete'...");
+		
+		if( System.Console.ReadLine() == null){
+			
+			System.Console.WriteLine("Response Null, Attempting to Continue System Runtime Operations:: ...");
+		
+		break;
+			
+		}
+		else if( System.Console.ReadLine() == "complete" || System.Console.ReadLine() == "com" || System.Console.ReadLine() == "done"){
+			
+			System.Console.WriteLine("Completed Input for Parameter Listings, Continuing Runtime Cycle:: ...");
+		
+		break;	
+			
+		}
+		else if( System.Console.ReadLine() != null && System.Console.ReadLine() != "" && System.Console.ReadLine() != "complete" && System.Console.ReadLine() != "com" && System.Console.ReadLine() != "done"){
+			
+			string n = "next";
+			string m = "move";
+			public string param1text = System.Console.ReadLine();
+			System.Console.WriteLine("If You Have Another Parameter, Please Type 'next' Otherwise Please Type 'move' And Press Return");
+			string s = System.Console.ReadLine();
+			foreach(string n in string s){
+		
+			System.Console.WriteLine("Please Input Next Parameter:: ...");
+				public string[] param = new public array[];
+				param[].indexOf(this) = System.Console.ReadLine();	
+				
+			}
+			foreach(string m in string s){
+				
+				System.Console.WriteLine("Continuing Runtime Cycle ...");
+				
+				break;
+				
+				
+			}
+			
+			
+		}
+		else if(throw exception){
+			
+			System.Console.WriteLine("IOExceptionHandler Accessed. Error Code " + IOExceptionHandlerNull.Value()  + "");
+			
+			break;
+		
+			
+		}
+		else{
+			
+			System.Console.WriteLine("Exception Noted. Attempting Runttime Continuation...");
+			
+			break;
+			
+		}
+		
 	}
 	
 	public class drawLinear(){
