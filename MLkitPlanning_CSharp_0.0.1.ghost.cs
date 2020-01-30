@@ -20,6 +20,145 @@ public namespace GhostNeuralNetwork{
 	}
 	
 	public class neuralmap(){
+	
+	
+		public array[:] e[:] = new public array[ 1 : "Income" , 2 : "Monetary Holdings" , 3 : "Intellect" , 4 : "Knowledge" , 5 : "Spiritual Knowledge" , 6 : "Technical Skill", 7 : "Cultural Training" , 8: "Entertainment Skill" , 15 : "Marketting Knowledge", 9 : "Artistic Creativity", 10 : "Charisma" , 11 : "Creative Solutions" , 12 : "Allustria" , 13 : "Conversational Dynamics" ,14 : "Drug Dependancy" , 16 : "Bias",17 : "Pattern Habits",18 : "Strength" ,19 : "Athletic Habits",20 : "Dietary Patterns" ,21 : "Structured Patriotism", 22 : "Will Power" , 23 : "Rigidity of Bones" ,24 : "Elasticity of Cell Reform" , 25 : "Immunity Resilience",26 : "Organized Membership" , 27 : "Employment State" ,28 : "Emotional Habitry" ,29 : "Linguistic Skills" , 30 : "Prior Budget Analytics" , 31 : "TeamWork Shortcomings" , 32 : "Weaknesses (Cellular)" ,33 : "Weaknesses (Toxicity)" ,34 : "Weaknesses (Environmental)" ,35 : "Weaknesses (Conversational)" ,36 : "Weaknesses (Sexual)" ,37 : "Weaknesses (Emotional)" ,38 : "Weaknesses (Logical)",39 : "Weaknesses (Economic)",40 : "Weaknesses (Neuro-Reactive)" ,41 : "Strength (Cellular)",42 : "Strength (Toxicity)" ,43 : "Strength (Environmental)" ,44 : "Strength (Conversational)" ,45 : "Strength (Sexual)" ,46 : "Strength (Emotional)" ,47 : "Strength (Logical)" ,48 : "Strength (Economic)" ,49 : "Strength (Neuro,Reactive)" ,50 : "Socio-Political Trend" ,51 : "Educational Trend",52 : "Physiological Attractions" ,53 : "NeuroChemical Attractions",54 : "Physical Athetic Trends" , 55 : "Physical Sexual Trends" ,56 : "Physical Violence Trends" ];
+		
+		public class assistedSchemaTrend(){
+			
+			
+			neuralmap().e[:] thisE[:] = new neuralmap().e[*:*];
+			
+			neuralmap().e[1:"Income"] = new array this.equalsE[1: public double rad = -2] || neuralmap.e[1:"Income"] = new array this.equalsE[1: public double rad = -1] || neuralmap.e[1:"Income"] = new array this.equalsE[1: public double rad = 0] || neuralmap.e[1:"Income"] = new array this.equalsE[1: public double rad = +1] || neuralmap.e[1:"Income"] = new array this.equalsE[1: public double rad = +2];
+			
+			neuralmap().e[2:"Monetary Holdings"] = new array this.equalsE[2: public double rad = -2] || neuralmap.e[2:"Monetary Holdings"] = new array this.equalsE[2: public double rad = -1] || neuralmap.e[2:"Monetary Holdings"] = new array this.equalsE[2: public double rad = 0] || neuralmap.e[2:"Monetary Holdings"] = new array this.equalsE[2: public double rad = +1] || neuralmap.e[2:"Monetary Holdings"] = new array this.equasE[2: public double rad = +2];		
+			
+			neuralmap().e[3: "Intellect"  ] = new array this.equalsE[3: public double rad = -2] || neuralmap.e[3: "Intellect"  ] = new array this.equalsE[3: public double rad = -1] || neuralmap.e[3: "Intellect"  ] = new array this.equalsE[3: public double rad = 0] || neuralmap.e[3: "Intellect"   ] = new array this.equalsE[3: public double rad = +1] || neuralmap.e[3: "Intellect"  ] = new array this.equalsE[3: public double rad = +2];
+			
+			neuralmap().e[4: "Knowledge"  ] = new array this.equalsE[4: public double rad = -2] || neuralmap.e[4: "Knowledge"  ] = new array this.equalsE[4: public double rad = -1] || neuralmap.e[4: "Knowledge"    ] = new array this.equalsE[4: public double rad = 0] || neuralmap.e[4:  "Knowledge"   ] = new array this.equalsE[4: public double rad = +1] || neuralmap.e[4:   "Knowledge"  ] = new array this.equasE[4: public double rad = +2];		
+			
+			
+			neuralmap().e[5: "Spiritual Knowledge" ] = new array this.equalsE[5: public double rad = -2] || neuralmap.e[5: "Spiritual Knowledge" ] = new array this.equalsE[5: public double rad = -1] || neuralmap.e[5:"Spiritual Knowledge"  ] = new array this.equalsE[5: public double rad = 0] || neuralmap.e[5:"Spiritual Knowledge"  ] = new array this.equalsE[5: public double rad = +1] || neuralmap.e[5: "Spiritual Knowledge" ] = new array this.equalsE[5: public double rad = +2];
+			
+			neuralmap().e[6:  "Technical Skill" ] = new array this.equalsE[6: public double rad = -2] || neuralmap.e[6: "Technical Skill"  ] = new array this.equalsE[6: public double rad = -1] || neuralmap.e[6:   "Technical Skill"  ] = new array this.equalsE[6: public double rad = 0] || neuralmap.e[6:  "Technical Skill"   ] = new array this.equalsE[6: public double rad = +1] || neuralmap.e[6:  "Technical Skill"   ] = new array this.equasE[6: public double rad = +2];		
+			
+			
+			
+			neuralmap().e[7:"Cultural Training"  ] = new array this.equalsE[7: public double rad = -2] || neuralmap.e[7:  "Cultural Training"] = new array this.equalsE[7: public double rad = -1] || neuralmap.e[7: "Cultural Training" ] = new array this.equalsE[7: public double rad = 0] || neuralmap.e[7: "Cultural Training" ] = new array this.equalsE[7: public double rad = +1] || neuralmap.e[7: "Cultural Training" ] = new array this.equalsE[7: public double rad = +2];
+			
+			neuralmap().e[8: "Entertainment Skill"  ] = new array this.equalsE[8: public double rad = -2] || neuralmap.e[8:"Entertainment Skill"   ] = new array this.equalsE[8: public double rad = -1] || neuralmap.e[8:  "Entertainment Skill"   ] = new array this.equalsE[8: public double rad = 0] || neuralmap.e[8:  "Entertainment Skill"   ] = new array this.equalsE[8: public double rad = +1] || neuralmap.e[8: "Entertainment Skill"    ] = new array this.equasE[8: public double rad = +2];		
+			
+			
+			neuralmap().e[9: "Artistic Creativity" ] = new array this.equalsE[9: public double rad = -2] || neuralmap.e[9: "Artistic Creativity" ] = new array this.equalsE[9: public double rad = -1] || neuralmap.e[9: "Artistic Crearivity" ] = new array this.equalsE[9: public double rad = 0] || neuralmap.e[9:"Artistic Crearivity"  ] = new array this.equalsE[9: public double rad = +1] || neuralmap.e[9: "Artistic Creativity" ] = new array this.equalsE[9: public double rad = +2];
+			
+			neuralmap().e[10: "Charisma"   ] = new array this.equalsE[10: public double rad = -2] || neuralmap.e[10: "Charisma"  ] = new array this.equalsE[10: public double rad = -1] || neuralmap.e[10:  "Charisma"   ] = new array this.equalsE[10: public double rad = 0] || neuralmap.e[10: "Charisma"    ] = new array this.equalsE[10: public double rad = +1] || neuralmap.e[10: "Charisma"    ] = new array this.equasE[10: public double rad = +2];		
+			
+			
+			neuralmap().e[11: "Creative Solutions" ] = new array this.equalsE[11: public double rad = -2] || neuralmap.e[11: "Creative Solutions" ] = new array this.equalsE[11: public double rad = -1] || neuralmap.e[11:"Creative Solutions"  ] = new array this.equalsE[11: public double rad = 0] || neuralmap.e[11: "Creativity Solutions" ] = new array this.equalsE[11: public double rad = +1] || neuralmap.e[11: "Creativity Solutions" ] = new array this.equalsE[11: public double rad = +2];
+			
+			neuralmap().e[12: "Allustria"  ] = new array this.equalsE[12: public double rad = -2] || neuralmap.e[12: "Allustria"   ] = new array this.equalsE[12: public double rad = -1] || neuralmap.e[12:   "Allustria"  ] = new array this.equalsE[12: public double rad = 0] || neuralmap.e[12:  "Allustria"  ] = new array this.equalsE[12: public double rad = +1] || neuralmap.e[12:  "Allustria" ] = new array this.equasE[12: public double rad = +2];		
+			
+			neuralmap().e[13: "Conversational Dynamics" ] = new array this.equalsE[13: public double rad = -2] || neuralmap.e[13: "Conversational Dynamics" ] = new array this.equalsE[13: public double rad = -1] || neuralmap.e[13: "Conversational Dynamics" ] = new array this.equalsE[13: public double rad = 0] || neuralmap.e[13: "Conversational Dynamics" ] = new array this.equalsE[13: public double rad = +1] || neuralmap.e[13: "Conversational Dynamics" ] = new array this.equalsE[13: public double rad = +2];
+			
+			neuralmap().e[14: "Drug Dependancy"   ] = new array this.equalsE[14: public double rad = -2] || neuralmap.e[14:  "Drug Dependancy"  ] = new array this.equalsE[14: public double rad = -1] || neuralmap.e[14:  "Drug Dependancy"   ] = new array this.equalsE[14: public double rad = 0] || neuralmap.e[14:  "Drug Dependancy"    ] = new array this.equalsE[14: public double rad = +1] || neuralmap.e[14: "Drug Dependancy"     ] = new array this.equasE[14: public double rad = +2];		
+			
+			neuralmap().e[15 : "Marketting Knowledge"  ] = new array this.equalsE[15 : public double rad = -2] || neuralmap.e[15 : "Marketting Knowledge"  ] = new array this.equalsE[15 : public double rad = -1] || neuralmap.e[15 : "Marketting Knowledge"   ] = new array this.equalsE[15 : public double rad = 0] || neuralmap.e[15 : "Marketting Knowledge"  ] = new array this.equalsE[15 : public double rad = +1] || neuralmap.e[15 : "Marketting Knowledge"  ] = new array this.equalsE[15 : public double rad = +2];
+			
+			neuralmap().e[16:    ] = new array this.equalsE[16: public double rad = -2] || neuralmap.e[16:    ] = new array this.equalsE[16: public double rad = -1] || neuralmap.e[16:      ] = new array this.equalsE[16: public double rad = 0] || neuralmap.e[16:      ] = new array this.equalsE[16: public double rad = +1] || neuralmap.e[16:      ] = new array this.equasE[16: public double rad = +2];		
+			
+			
+			neuralmap().e[17:   ] = new array this.equalsE[17: public double rad = -2] || neuralmap.e[17:   ] = new array this.equalsE[17: public double rad = -1] || neuralmap.e[17:   ] = new array this.equalsE[17: public double rad = 0] || neuralmap.e[17:   ] = new array this.equalsE[17: public double rad = +1] || neuralmap.e[17:   ] = new array this.equalsE[17: public double rad = +2];
+			
+			neuralmap().e[18:    ] = new array this.equalsE[18: public double rad = -2] || neuralmap.e[18:    ] = new array this.equalsE[18: public double rad = -1] || neuralmap.e[18:      ] = new array this.equalsE[18: public double rad = 0] || neuralmap.e[18:      ] = new array this.equalsE[18: public double rad = +1] || neuralmap.e[18:      ] = new array this.equasE[18: public double rad = +2];		
+			
+			
+			neuralmap().e[19:   ] = new array this.equalsE[19: public double rad = -2] || neuralmap.e[19:   ] = new array this.equalsE[19: public double rad = -1] || neuralmap.e[19:   ] = new array this.equalsE[19: public double rad = 0] || neuralmap.e[19:   ] = new array this.equalsE[19: public double rad = +1] || neuralmap.e[19:   ] = new array this.equalsE[19: public double rad = +2];
+			
+			neuralmap().e[20:    ] = new array this.equalsE[20: public double rad = -2] || neuralmap.e[20:    ] = new array this.equalsE[20: public double rad = -1] || neuralmap.e[20:      ] = new array this.equalsE[20: public double rad = 0] || neuralmap.e[20:      ] = new array this.equalsE[20: public double rad = +1] || neuralmap.e[20:      ] = new array this.equasE[20: public double rad = +2];		
+			
+			neuralmap().e[21:   ] = new array this.equalsE[21: public double rad = -2] || neuralmap.e[21:   ] = new array this.equalsE[21: public double rad = -1] || neuralmap.e[21:   ] = new array this.equalsE[21: public double rad = 0] || neuralmap.e[21:   ] = new array this.equalsE[21: public double rad = +1] || neuralmap.e[21:   ] = new array this.equalsE[21: public double rad = +2];
+			
+			neuralmap().e[22:    ] = new array this.equalsE[22: public double rad = -2] || neuralmap.e[22:    ] = new array this.equalsE[22: public double rad = -1] || neuralmap.e[22:      ] = new array this.equalsE[22: public double rad = 0] || neuralmap.e[22:      ] = new array this.equalsE[22: public double rad = +1] || neuralmap.e[22:      ] = new array this.equasE[22: public double rad = +2];		
+		
+		
+			neuralmap().e[1
+			23:   ] = new array this.equalsE[23: public double rad = -2] || neuralmap.e[23:   ] = new array this.equalsE[1: public double rad = -1] || neuralmap.e[23:   ] = new array this.equalsE[23: public double rad = 0] || neuralmap.e[23:   ] = new array this.equalsE[23: public double rad = +1] || neuralmap.e[23:   ] = new array this.equalsE[23: public double rad = +2];
+			
+			neuralmap().e[24:    ] = new array this.equalsE[24: public double rad = -2] || neuralmap.e[24:    ] = new array this.equalsE[24: public double rad = -1] || neuralmap.e[24:      ] = new array this.equalsE[24: public double rad = 0] || neuralmap.e[24:      ] = new array this.equalsE[24: public double rad = +1] || neuralmap.e[24:      ] = new array this.equasE[24: public double rad = +2];		
+			
+			
+			neuralmap().e[25:   ] = new array this.equalsE[25: public double rad = -2] || neuralmap.e[25:   ] = new array this.equalsE[25: public double rad = -1] || neuralmap.e[25:   ] = new array this.equalsE[25: public double rad = 0] || neuralmap.e[25:   ] = new array this.equalsE[25: public double rad = +1] || neuralmap.e[25:   ] = new array this.equalsE[25: public double rad = +2];
+			
+			neuralmap().e[26:    ] = new array this.equalsE[26: public double rad = -2] || neuralmap.e[26:    ] = new array this.equalsE[26: public double rad = -1] || neuralmap.e[26:      ] = new array this.equalsE[26: public double rad = 0] || neuralmap.e[26:      ] = new array this.equalsE[26: public double rad = +1] || neuralmap.e[26:      ] = new array this.equasE[26: public double rad = +2];		
+			
+			neuralmap().e[27:   ] = new array this.equalsE[27: public double rad = -2] || neuralmap.e[27:   ] = new array this.equalsE[27: public double rad = -1] || neuralmap.e[27:   ] = new array this.equalsE[27: public double rad = 0] || neuralmap.e[27:   ] = new array this.equalsE[27: public double rad = +1] || neuralmap.e[27:   ] = new array this.equalsE[27: public double rad = +2];
+			
+			neuralmap().e[28:    ] = new array this.equalsE[28: public double rad = -2] || neuralmap.e[28:    ] = new array this.equalsE[28: public double rad = -1] || neuralmap.e[28:      ] = new array this.equalsE[28: public double rad = 0] || neuralmap.e[28:      ] = new array this.equalsE[28: public double rad = +1] || neuralmap.e[28:      ] = new array this.equasE[28: public double rad = +2];		
+			
+			neuralmap().e[29:   ] = new array this.equalsE[29: public double rad = -2] || neuralmap.e[29:   ] = new array this.equalsE[29: public double rad = -1] || neuralmap.e[29:   ] = new array this.equalsE[29: public double rad = 0] || neuralmap.e[29:   ] = new array this.equalsE[29: public double rad = +1] || neuralmap.e[29:   ] = new array this.equalsE[29: public double rad = +2];
+			
+			neuralmap().e[30:    ] = new array this.equalsE[30: public double rad = -2] || neuralmap.e[30:    ] = new array this.equalsE[30: public double rad = -1] || neuralmap.e[30:      ] = new array this.equalsE[30: public double rad = 0] || neuralmap.e[30:      ] = new array this.equalsE[30: public double rad = +1] || neuralmap.e[30:      ] = new array this.equasE[30: public double rad = +2];		
+			
+			neuralmap().e[31:   ] = new array this.equalsE[31: public double rad = -2] || neuralmap.e[31:   ] = new array this.equalsE[31: public double rad = -1] || neuralmap.e[31:   ] = new array this.equalsE[31: public double rad = 0] || neuralmap.e[31:   ] = new array this.equalsE[31: public double rad = +1] || neuralmap.e[31:   ] = new array this.equalsE[31: public double rad = +2];
+			
+			neuralmap().e[32:    ] = new array this.equalsE[32: public double rad = -2] || neuralmap.e[32:    ] = new array this.equalsE[32: public double rad = -1] || neuralmap.e[32:      ] = new array this.equalsE[32: public double rad = 0] || neuralmap.e[32:      ] = new array this.equalsE[32: public double rad = +1] || neuralmap.e[32:      ] = new array this.equasE[32: public double rad = +2];		
+			
+			neuralmap().e[33:   ] = new array this.equalsE[33: public double rad = -2] || neuralmap.e[33:   ] = new array this.equalsE[33: public double rad = -1] || neuralmap.e[33:   ] = new array this.equalsE[33: public double rad = 0] || neuralmap.e[33:   ] = new array this.equalsE[33: public double rad = +1] || neuralmap.e[33:   ] = new array this.equalsE[33: public double rad = +2];
+			
+			neuralmap().e[34:    ] = new array this.equalsE[34: public double rad = -2] || neuralmap.e[34:    ] = new array this.equalsE[34: public double rad = -1] || neuralmap.e[34:      ] = new array this.equalsE[34: public double rad = 0] || neuralmap.e[34:      ] = new array this.equalsE[34: public double rad = +1] || neuralmap.e[34:      ] = new array this.equasE[34: public double rad = +2];		
+			
+			neuralmap().e[35:   ] = new array this.equalsE[35: public double rad = -2] || neuralmap.e[35:   ] = new array this.equalsE[35: public double rad = -1] || neuralmap.e[35:   ] = new array this.equalsE[35: public double rad = 0] || neuralmap.e[35:   ] = new array this.equalsE[35: public double rad = +1] || neuralmap.e[35:   ] = new array this.equalsE[35: public double rad = +2];
+			
+			neuralmap().e[36:    ] = new array this.equalsE[36: public double rad = -2] || neuralmap.e[36:    ] = new array this.equalsE[36: public double rad = -1] || neuralmap.e[36:      ] = new array this.equalsE[36: public double rad = 0] || neuralmap.e[36:      ] = new array this.equalsE[36: public double rad = +1] || neuralmap.e[36:      ] = new array this.equasE[36: public double rad = +2];		
+			
+			neuralmap().e[37:   ] = new array this.equalsE[37: public double rad = -2] || neuralmap.e[37:   ] = new array this.equalsE[37: public double rad = -1] || neuralmap.e[37:   ] = new array this.equalsE[37: public double rad = 0] || neuralmap.e[37:   ] = new array this.equalsE[37: public double rad = +1] || neuralmap.e[37:   ] = new array this.equalsE[37: public double rad = +2];
+			
+			neuralmap().e[38:    ] = new array this.equalsE[38: public double rad = -2] || neuralmap.e[38:    ] = new array this.equalsE[38: public double rad = -1] || neuralmap.e[38:      ] = new array this.equalsE[38: public double rad = 0] || neuralmap.e[38:      ] = new array this.equalsE[38: public double rad = +1] || neuralmap.e[38:      ] = new array this.equasE[38: public double rad = +2];		
+			
+			
+			neuralmap().e[39:   ] = new array this.equalsE[39: public double rad = -2] || neuralmap.e[39:   ] = new array this.equalsE[39: public double rad = -1] || neuralmap.e[39:   ] = new array this.equalsE[39: public double rad = 0] || neuralmap.e[39:   ] = new array this.equalsE[39: public double rad = +1] || neuralmap.e[39:   ] = new array this.equalsE[39: public double rad = +2];
+			
+			neuralmap().e[40:    ] = new array this.equalsE[40: public double rad = -2] || neuralmap.e[40:    ] = new array this.equalsE[40: public double rad = -1] || neuralmap.e[40:      ] = new array this.equalsE[40: public double rad = 0] || neuralmap.e[40:      ] = new array this.equalsE[40: public double rad = +1] || neuralmap.e[40:      ] = new array this.equasE[40: public double rad = +2];		
+			
+			neuralmap().e[41:   ] = new array this.equalsE[41: public double rad = -2] || neuralmap.e[41:   ] = new array this.equalsE[41: public double rad = -1] || neuralmap.e[41:   ] = new array this.equalsE[41: public double rad = 0] || neuralmap.e[41:   ] = new array this.equalsE[41: public double rad = +1] || neuralmap.e[41:   ] = new array this.equalsE[41: public double rad = +2];
+			
+			neuralmap().e[42:    ] = new array this.equalsE[42: public double rad = -2] || neuralmap.e[42:    ] = new array this.equalsE[42: public double rad = -1] || neuralmap.e[42:      ] = new array this.equalsE[42: public double rad = 0] || neuralmap.e[42:      ] = new array this.equalsE[42: public double rad = +1] || neuralmap.e[42:      ] = new array this.equasE[42: public double rad = +2];		
+			
+			neuralmap().e[43:   ] = new array this.equalsE[43: public double rad = -2] || neuralmap.e[43:   ] = new array this.equalsE[43: public double rad = -1] || neuralmap.e[43:   ] = new array this.equalsE[43: public double rad = 0] || neuralmap.e[43:   ] = new array this.equalsE[43: public double rad = +1] || neuralmap.e[43:   ] = new array this.equalsE[43: public double rad = +2];
+			
+			neuralmap().e[44:    ] = new array this.equalsE[44: public double rad = -2] || neuralmap.e[44:    ] = new array this.equalsE[44: public double rad = -1] || neuralmap.e[44:      ] = new array this.equalsE[44: public double rad = 0] || neuralmap.e[44:      ] = new array this.equalsE[44: public double rad = +1] || neuralmap.e[44:      ] = new array this.equasE[44: public double rad = +2];		
+			
+			
+			neuralmap().e[45:   ] = new array this.equalsE[45: public double rad = -2] || neuralmap.e[45:   ] = new array this.equalsE[45: public double rad = -1] || neuralmap.e[45:   ] = new array this.equalsE[45: public double rad = 0] || neuralmap.e[45:   ] = new array this.equalsE[45: public double rad = +1] || neuralmap.e[45:   ] = new array this.equalsE[45: public double rad = +2];
+			
+			neuralmap().e[46:    ] = new array this.equalsE[46: public double rad = -2] || neuralmap.e[46:    ] = new array this.equalsE[46: public double rad = -1] || neuralmap.e[46:      ] = new array this.equalsE[46: public double rad = 0] || neuralmap.e[46:      ] = new array this.equalsE[46: public double rad = +1] || neuralmap.e[46:      ] = new array this.equasE[46: public double rad = +2];		
+			
+			
+			neuralmap().e[47:   ] = new array this.equalsE[47: public double rad = -2] || neuralmap.e[47:   ] = new array this.equalsE[47: public double rad = -1] || neuralmap.e[47:   ] = new array this.equalsE[47: public double rad = 0] || neuralmap.e[47:   ] = new array this.equalsE[47: public double rad = +1] || neuralmap.e[47:   ] = new array this.equalsE[47: public double rad = +2];
+			
+			neuralmap().e[48:    ] = new array this.equalsE[48: public double rad = -2] || neuralmap.e[48:    ] = new array this.equalsE[48: public double rad = -1] || neuralmap.e[48:      ] = new array this.equalsE[48: public double rad = 0] || neuralmap.e[48:      ] = new array this.equalsE[48: public double rad = +1] || neuralmap.e[48:      ] = new array this.equasE[48: public double rad = +2];		
+			
+			neuralmap().e[49:   ] = new array this.equalsE[49: public double rad = -2] || neuralmap.e[49:   ] = new array this.equalsE[49: public double rad = -1] || neuralmap.e[49:   ] = new array this.equalsE[49: public double rad = 0] || neuralmap.e[49:   ] = new array this.equalsE[49: public double rad = +1] || neuralmap.e[49:   ] = new array this.equalsE[49: public double rad = +2];
+			
+			neuralmap().e[50:    ] = new array this.equalsE[50: public double rad = -2] || neuralmap.e[50:    ] = new array this.equalsE[50: public double rad = -1] || neuralmap.e[50:      ] = new array this.equalsE[50: public double rad = 0] || neuralmap.e[50:      ] = new array this.equalsE[50: public double rad = +1] || neuralmap.e[50:      ] = new array this.equasE[50: public double rad = +2];		
+			
+			neuralmap().e[51:   ] = new array this.equalsE[51: public double rad = -2] || neuralmap.e[51:   ] = new array this.equalsE[51: public double rad = -1] || neuralmap.e[51:   ] = new array this.equalsE[51: public double rad = 0] || neuralmap.e[51:   ] = new array this.equalsE[51: public double rad = +1] || neuralmap.e[51:   ] = new array this.equalsE[51: public double rad = +2];
+			
+			neuralmap().e[52:    ] = new array this.equalsE[52: public double rad = -2] || neuralmap.e[52:    ] = new array this.equalsE[52: public double rad = -1] || neuralmap.e[52:      ] = new array this.equalsE[52: public double rad = 0] || neuralmap.e[52:      ] = new array this.equalsE[52: public double rad = +1] || neuralmap.e[52:      ] = new array this.equasE[52: public double rad = +2];		
+			
+			neuralmap().e[53:   ] = new array this.equalsE[53: public double rad = -2] || neuralmap.e[53:   ] = new array this.equalsE[53: public double rad = -1] || neuralmap.e[53:   ] = new array this.equalsE[53: public double rad = 0] || neuralmap.e[53:   ] = new array this.equalsE[53: public double rad = +1] || neuralmap.e[53:   ] = new array this.equalsE[53: public double rad = +2];
+			
+			neuralmap().e[54:    ] = new array this.equalsE[54: public double rad = -2] || neuralmap.e[54:    ] = new array this.equalsE[54: public double rad = -1] || neuralmap.e[54:      ] = new array this.equalsE[54: public double rad = 0] || neuralmap.e[54:      ] = new array this.equalsE[54: public double rad = +1] || neuralmap.e[54:      ] = new array this.equasE[54: public double rad = +2];		
+			
+			neuralmap().e[55:   ] = new array this.equalsE[55: public double rad = -2] || neuralmap.e[55:   ] = new array this.equalsE[55: public double rad = -1] || neuralmap.e[55:   ] = new array this.equalsE[55: public double rad = 0] || neuralmap.e[55:   ] = new array this.equalsE[55: public double rad = +1] || neuralmap.e[55:   ] = new array this.equalsE[55: public double rad = +2];
+			
+			neuralmap().e[56:    ] = new array this.equalsE[56: public double rad = -2] || neuralmap.e[56:    ] = new array this.equalsE[56: public double rad = -1] || neuralmap.e[56:      ] = new array this.equalsE[56: public double rad = 0] || neuralmap.e[56:      ] = new array this.equalsE[56: public double rad = +1] || neuralmap.e[56:      ] = new array this.equasE[56: public double rad = +2];		
+					
+						
+					
+		}
+		
+		
 		
 	}
 	
@@ -28,7 +167,7 @@ public namespace GhostNeuralNetwork{
 		/* Radial Weight and Subweight Transaction Transfers for More Direct Convolutional Neurological 'Living' Basis */
 				
 		
-		foreach{param e in neuralmap(param[*])){
+		foreach{index i in neuralmap.e[i:*]{
 			
 			if(this.e == assistedSchemaTrend(equalsE)){
 				
