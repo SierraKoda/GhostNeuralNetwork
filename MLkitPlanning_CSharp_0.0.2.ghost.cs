@@ -415,7 +415,7 @@ public namespace GhostNeuralNetwork{
 		
 		/* Linear Regression Mathematics based on code by NikolayIT */
 		
-  double xValues = new double[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20];
+  double xValues = new double[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56];
   double yValues = new double[ 8669269, 8595500, 8484900, 8459800, 8427400, 8384700, 8340900, 8283200, 8230400, 8190900, 8149468, 7932984, 7845841, 7801273, 7761049, 7720000, 7679290, 7640238, 7606551, 7563710];
 
   double rSquared, double intercept, double slope;
