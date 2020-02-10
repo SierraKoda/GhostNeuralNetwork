@@ -2564,378 +2564,2261 @@ thisMap(e[17:*]).toString() , thisMap(e[18:*]).toString() , thisMap(e[19:*]).toS
 
 			System.Console.WriteLine(string disStri);
 
+
+     public driftVariance() thisDriftAlign(new double pos5(x,y)) = new public class driftVariance(double pos(x,y)){
+     	
+     this.loadAsync();
+     this.getValue(*);
+     this.return(*);
+     	
+     }   
+     
+     
+     
 				
 			if(input2 == "f1"){
 			    
-			     1 : "Income" 
+			  //   1 : "Income" 
 			     
+			     
+		public thisDriftAlign(double pos5(x,y)){
+				
+				get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+				
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+			}
 			      
 
 			}
 			else if(input2 == "f2"){
 
-			2 : "Monetary Holdings" 
+		//	2 : "Monetary Holdings" 
 			
+				public thisDriftAlign(double pos5(x,y)){
+				
+				get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
 			
 
 			}
 			else if(input2 == "f3"){
 			
-        3 : "Intellect" 
+    //    3 : "Intellect" 
 
+	public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
 
  
 			
 			}
 			else if(input2 == "f4"){
 
-      4 : "Knowledge" 
-      
+   //   4 : "Knowledge" 
+      	public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+			}
+			      
+
 
 			}
 			else if(input2 == "f5"){
 
 			
-       5 : "Spiritual Knowledge"  
+    //   5 : "Spiritual Knowledge"  
        
-       
+       	public thisDriftAlign(double pos5(x,y)){
+				
+				get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
        
 
 			}
 			else if(input2 == "f6"){
 			
-			6 : "Technical Skill"                 
-                      
+		//	6 : "Technical Skill"                 
+          	public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+           
 
 			}
 			else if(input2 == "f7"){
 
-			7 : "Cultural Training" 
-			
+		//	7 : "Cultural Training" 
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
 			 
 			}
 			else if(input2 == "f8"){
 
-			8 : "Entertainment Skill" 
+	//		8 : "Entertainment Skill" 
 			
-			 
+			 	public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
 			}
 			else if(input2 == "f9"){
 			
-			15 : "Marketting Knowledge", 
-			
+		//	15 : "Marketting Knowledge", 
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+								
+			}
+			      
+
 
 
 			}
 			else if(input2 == "e9"){
 			
 			
-			9 : "Artistic Creativity"
+		//	9 : "Artistic Creativity"
 			
-			
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
 			
                       
 			}
 			else if(input2 == "e8"){
 
-			10 : "Charisma" , 
+		//	10 : "Charisma" , 
 			
-			
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
 			
 			}
 			else if(input2 == "e7"){
 			
-			11 : "Creative Solutions" ,
+//		11 : "Creative Solutions" ,
 			
-			
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+			}
+			      
+
 			
 			}
 			else if(input2 == "e6"){
 
-			 12 : "Allustria" 
-			 
+		//	 12 : "Allustria" 
+			 	public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
 			 
 
 			} 
 			else if(input2 == "e5"){
 			
-        13 : "Conversational Dynamics"  
+  //     13 : "Conversational Dynamics"  
         
+        
+        	public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
         			}
 			else if(input2 == "e4"){
 		
 		
-			14 : "Drug Dependancy"  
+		//	14 : "Drug Dependancy"  
 			
 				
+	public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+			}
+			      
 
 			
 
 			}
 			else if(input2 == "e3"){
 			
-			16 : "Bias" 
+		//	16 : "Bias" 
 			
 							
-			
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
 			}
 			else if(input2 == "e2"){
 
-			17 : "Pattern Habits" 
+		//	17 : "Pattern Habits" 
 			
+	public thisDriftAlign(double pos5(x,y)){
+				
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+			}
+			      
 
 			}
 			else if(input2 == "e1"){
 			
       
-			18 : "Strength" 
+		//	18 : "Strength" 
 			
-			
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
 			
 
 			}
 			else if(input2 == "g1"){
 
 			
-      19 : "Athletic Habits" 
+ //     19 : "Athletic Habits" 
+	public thisDriftAlign(double pos5(x,y)){
+				
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
 
 
 
 			}
 			else if(input2 == "g2"){
 
-			20 : "Dietary Patterns" 
+	//		20 : "Dietary Patterns" 
 			
-			
+				public thisDriftAlign(double pos5(x,y)){
+					
+					
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
 			
 			}
 			else if(input2 == "g3"){
 
-			21 : "Structured Patriotism" 
+		//	21 : "Structured Patriotism" 
 
 
+	public thisDriftAlign(double pos5(x,y)){
+				
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+			}
+			      
 
 			}
 	  	else if(input2 == "h1"){
 			                    
-          22 : "Will Power" 
-                      
+   //       22 : "Will Power" 
+      	public thisDriftAlign(double pos5(x,y)){
+				
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+			}
+			      
+               
 
 			}
 			else if(input2 == "h2"){
 
 			
-     23 : "Rigidity of Bones" 
+  //   23 : "Rigidity of Bones" 
      
-     
+     	public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+			}
+			      
+
      
 			}
 			else if(input2 == "h3"){
 			
-     24 : "Elasticity of Cell Reform"  
+  //   24 : "Elasticity of Cell Reform"  
+     
+     	public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
      
 			}
 			else if(input2 == "h4"){
   
-      25 : "Immunity Resilience" 
+  //    25 : "Immunity Resilience" 
       
-			
+				public thisDriftAlign(double pos5(x,y)){
+				
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
 
 			}
 			else if(input2 == "h5"){
 
-			26 : "Organized Membership"  
+	//		26 : "Organized Membership"  
+
+       	public thisDriftAlign(double pos5(x,y)){
+				
+				get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
+
 
 			}
 			else if(input2 == "h6"){
 		
 		
-			27 : "Employment State" 
+	//		27 : "Employment State" 
+			
+				public thisDriftAlign(double pos5(x,y)){
+				
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
 			
 			
 			}
 			else if(input2 == "h7"){
 				
-				28 : "Emotional Habitry" 
+		//		28 : "Emotional Habitry" 
+				
+					public thisDriftAlign(double pos5(x,y)){
+				
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);			
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+					
+			}
+			      
+
 				
 				
 			}
 			else if(input2 == "h8"){
 
-     29 : "Linguistic Skills" 
+   //  29 : "Linguistic Skills" 
+     
+     	public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+								
+			}
+			      
+
      
 			
 			}
 			else if(input2 == "h9"){
 						
 		
-     30 : "Prior Budget Analytics"  
+  //   30 : "Prior Budget Analytics"  
 						
-			
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+			}
+			      
+
 
 			}
 			else if(input2 == "i9"){
 			
-			31 : "TeamWork Shortcomings" 
-			
+//		31 : "TeamWork Shortcomings" 
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);				
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
                       
 			}
 			else if(input2 == "i8"){
 
-			32 : "Weaknesses (Cellular)" 
+	//		32 : "Weaknesses (Cellular)" 
+			
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
+			
 			
 			}
 			else if(input2 == "i7"){
 			
-			33 : "Weaknesses (Toxicity)" 
+	//		33 : "Weaknesses (Toxicity)" 
+			
+				public thisDriftAlign(double pos5(x,y)){
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
+			
 			
 			}
 			else if(input2 == "i6"){
 
-			34 : "Weaknesses (Environmental)" 
+		//	34 : "Weaknesses (Environmental)" 
+			
+			
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+			}
+			      
+
 
 			} 
 			else if(input2 == "i5"){
 			
-       35 : "Weaknesses (Conversational)" 
+    //   35 : "Weaknesses (Conversational)" 
+     
+     	public thisDriftAlign(double pos5(x,y)){
+				
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+				
+			}
+			      
+
      
 			  		
 			}
 			else if(input2 == "i4"){
 			
 			  
-       36 : "Weaknesses (Sexual)" 
+   //    36 : "Weaknesses (Sexual)" 
+       
+       	public thisDriftAlign(double pos5(x,y)){
+				
+				get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+				
+			}
+			      
+
        
        
 			}
 			else if(input2 == "i3"){
 			
-			37 : "Weaknesses (Emotional)" 
+	//		37 : "Weaknesses (Emotional)" 
 			
-			
+				public thisDriftAlign(double pos5(x,y)){
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+			      
+
 			
 			}
 			else if(input2 == "i2"){
 
-			38 : "Weaknesses (Logical)" 
+	//		38 : "Weaknesses (Logical)" 
 			
+				public thisDriftAlign(double pos5(x,y)){
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
 			
 			
 
 			}
 			else if(input2 == "i1"){
 			
-     39 : "Weaknesses (Economic)" 
-     
+  //   39 : "Weaknesses (Economic)" 
+     	public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
      
 			}
 			else if(input2 == "j1"){
 
-			40 : "Weaknesses (Neuro-Reactive)" 
+		//	40 : "Weaknesses (Neuro-Reactive)" 
 			
-			
+				public thisDriftAlign(double pos5(x,y)){
+				
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+				
+			}
 
 			}
 			else if(input2 == "j2"){
 
-    41 : "Strength (Cellular)"
+ //   41 : "Strength (Cellular)"
 
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+				
+			}
 			
 			}
 			else if(input2 == "j3"){
 
-			42 : "Strength (Toxicity)" 
-			
+//			42 : "Strength (Toxicity)" 
+				public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
 			
 			
 			}
       else if(input2 == "k1"){
 			
-			 43 : "Strength (Environmental)" 
-			 
-		
+//			 43 : "Strength (Environmental)" 
+			
+		public thisDriftAlign(double pos5(x,y)){
+				
+				get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+			}
 
 			}
 			else if(input2 == "k2"){
 			
-				 44 : "Strength (Conversational)" 
-				 
+	//			 44 : "Strength (Conversational)" 
+				 public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
 
 
 			}
 			else if(input2 == "k3"){
 			
-       45 : "Strength (Sexual)"                 
+  //     45 : "Strength (Sexual)"                 
                      
-
+public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);				
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
 			
 			}
 			else if(input2 == "k4"){
 
-      46 : "Strength (Emotional)" 
+  //    46 : "Strength (Emotional)" 
       
-
+public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
 
 			}
 			else if(input2 == "k5"){
 			
-     47 : "Strength (Logical)" ,
+ //    47 : "Strength (Logical)" ,
      
+     public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);				
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
        
 			}
 			else if(input2 == "k6"){
 			
-			48 : "Strength (Economic)" 
+//			48 : "Strength (Economic)" 
 			
-			
+			public thisDriftAlign(double pos5(x,y)){
+				
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
 	   	}
 			else if(input2 == "k7"){
      
-     49 : "Strength (Neuro-Reactive)" 
-     
+  //   49 : "Strength (Neuro-Reactive)" 
+     public thisDriftAlign(double pos5(x,y)){
+				
+				
+				get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
 
 			
 			}
 			else if(input2 == "k8"){
 
 			
-		  50 : "Socio-Political Trend" 
+	//	  50 : "Socio-Political Trend" 
+			
+			public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);				
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
 			
 			}
 			else if(input2 == "k9"){			
 					
-		 51 : "Educational Trend" 
-					
+	//	 51 : "Educational Trend" 
+			public thisDriftAlign(double pos5(x,y)){
+				
+					get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+				
+			}	
 
 			}
 			else if(input2 == "l9"){
 		
-			52 : "Physiological Attractions" 
+		//	52 : "Physiological Attractions" 
 			
+			public thisDriftAlign(double pos5(x,y)){
 				
+				get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
                       
 			}
 			else if(input2 == "l3"){
 
-			53 : "NeuroChemical Attractions" 
+//		53 : "NeuroChemical Attractions" 
+					public thisDriftAlign(double pos5(x,y)){
+				
+				
+				get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}					
 					
 			}
 			else if(input2 == "l2"){
 			
-			54 : "Physical Athletic Trends" 
+	//		54 : "Physical Athletic Trends" 
 			 
-			
+			public thisDriftAlign(double pos5(x,y)){
+				
+				get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
 			}
 			else if(input2 == "l1"){
 
-			55 : "Physical Sexual Trends" 
-			
+	//		55 : "Physical Sexual Trends" 
+			public thisDriftAlign(double pos5(x,y)){
+				
+				get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+				
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
 			
 
 			} 
 			else if(input2 == "l5"){
 			
-     56 : "Physical Violence Trends"			
+ //    56 : "Physical Violence Trends"		
+     public thisDriftAlign(double pos5(x,y)){
+				
+				get public double pos(x,y);
+				public double pos5(x,y) = new public double pos(x,y);
+						
+				// Preparation for LikeSchema Analysis Sector From CSV/XML and Chorreography for Adj to be done
+				
+				
+				public string[] direInfl[] = new public string[];
+					public string[] mildInfl[] = new public string[];
+						public string[] indInfl[] = new public string[];
+						public string[] dependentInfl[] = new public string[];
+			public string[] opInfl[] = new public string[];
+					public string[] mildOpInfl[] = new public string[];
+						public string[] detractantInfl[] = new public string[];
+							public string[] afflictingInfl[] = new public string[];
+					public string[] orbitalInfl[] = new public string[];
+				
+				
+				if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else if(){}
+				else{}
+				
+				
+			}
+     
          		
 			
 			}
