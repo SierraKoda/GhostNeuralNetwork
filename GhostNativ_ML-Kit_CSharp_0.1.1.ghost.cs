@@ -2370,7 +2370,9 @@ return public string[] inputReff[*];
 			
 		}
 		
-		return public string[] inputReff[*];
+		public array[:] repaReffCodes[:] = new public array[ inputReff[*].indexOf() : inputReff[this].toString()];
+		
+		return public string[] inputReff[*] && public array[:] repaReffCodes[*:*];
 		
 		
 	}
@@ -2723,7 +2725,7 @@ thisMap(e[17:*]).toString() , thisMap(e[18:*]).toString() , thisMap(e[19:*]).toS
 		
 	if(direInfl[0] == true){
 		
-		thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * modAdjDrift56OneDireInfl1) * 100) ]
+		thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[56]) * 100) ];
 		
 		
 		/*  soon creating modAdj Percentage Modifier Point Scale for Throw In */
@@ -2731,209 +2733,209 @@ thisMap(e[17:*]).toString() , thisMap(e[18:*]).toString() , thisMap(e[19:*]).toS
 	}
 		else if(direInfl[1]	== true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[57]) * 100) ];
 			
 		}
 		else if(direInfl[2] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[58]) * 100) ];
 			
 		}
 		else if(direInfl[3]	== true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[59]) * 100) ];
 			
 		}
 		else if(direInfl[4] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[60]) * 100) ];
 			
 			}
 		else if(direInfl[5] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[61]) * 100) ];
 			
 		}
 		else if(direInfl[6] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[62]) * 100) ];
 			
 		}
 		else if(direInfl[7] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[63]) * 100) ];
 			
 		}
 		else if(direInfl[8]	== true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[64]) * 100) ];
 			
 		}
 		else if(direInfl[9] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[65]) * 100) ];
 			
 		}
 		else if(direInfl[10] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[66]) * 100) ];
 			
 		}
 		else if(direInfl[11] == true){
 			
-			thisNMap().e[1:*]
+		thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[67]) * 100) ];
 			
 			
 	    	}
 			else if(mildInfl[0] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[68]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildInfl[1] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[69]) * 100) ];
 			
 			
 	    	}		
 	    		
 			else if(mildInfl[2] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[70]) * 100) ];
 			
 			
 	    	}
 			else if(mildInfl[3] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[71]) * 100) ];
 			
 			
 	    	}
 	    	
 			else if(mildInfl[4] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[72]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildInfl[5] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[73]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildInfl[6] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[74]) * 100) ];
 			
 			
 	    	}
 			else if(mildInfl[7] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[75]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildInfl[8] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[76]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildInfl[9] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[77]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildInfl[10] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[78]) * 100) ];
 			
 			
 	    	}
 	    	
 			else if(mildInfl[11] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[79]) * 100) ];
 			
 			
 	    	}
 			else if(intInfl[0] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[80]) * 100) ];
 			
 			
 	    	}
 			else if(intInfl[1]] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[81]) * 100) ];
 			
 			
 	    	}
 	    	else if(intInfl[2] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[82]) * 100) ];
 			
 			
 	    	}
 	    	else if(intInfl[3] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[83]) * 100) ];
 			
 			
 	    	}
 	    	
 			else if(intInfl[4] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[84]) * 100) ];
 			
 			
 	    	}
 	    	
 			else if(intInfl[5] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[85]) * 100) ];
 			
 			
 	    	}
 			
 	    	else if(intInfl[6] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[86]) * 100) ];
 			
 			
 	    	}
 			
 			else if(intInfl[7] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[87]) * 100) ];
 			
 			
 	    	}
 	    	else if(intInfl[8] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[88]) * 100) ];
 			
 			
 	    	}
 	    	
 			else if(intInfl[9] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[89]) * 100) ];
 			
 			
 	    	}
 	    	else if(intInfl[10] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[90]) * 100) ];
 			
 			
 	    	}
 			else if(intInfl[11] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[91]) * 100) ];
 			
 			
 	    	}
@@ -2941,233 +2943,234 @@ thisMap(e[17:*]).toString() , thisMap(e[18:*]).toString() , thisMap(e[19:*]).toS
 			
 			else if(intInfl[12] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[92]) * 100) ];
 			
 			
 	    	}
 			
 			else if(dependentInfl[0] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[93]) * 100) ];
 			
 			
 	    	}
 			
 			else if(dependentInfl[1] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[94]) * 100) ];
 			
 			
 	    	}
 	    	
 			else if(dependentInfl[2] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[95]) * 100) ];
 			
 			
 	    	}
 			else if(dependentInfl[3] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[96]) * 100) ];
 			
 			
 	    	}
 			else if(dependentInfl[4] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[97]) * 100) ];
 			
 			
 	    	}
 			
 			else if(dependentInfl[5] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[98]) * 100) ];
 			
 			
 	    	}
 			else if(dependentInfl[6] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[99]) * 100) ];
 			
 			
 	    	}
 			else if(dependentInfl[7] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[100]) * 100) ];
 			
 			
 	    	}
 			else if(dependentInfl[8] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[101]) * 100) ];
 			
 			
 	    	}
 	    	else if(dependentInfl[9] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[102]) * 100) ];
 			
 			
 	    	}
 			else if(dependentInfl[10] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[103]) * 100) ];
 			
 			
 	    	}
 			else if(dependentInfl[11] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[104]) * 100) ];
 			
 			
 	    	}
 			
 			else if(dependentInfl[12] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[105]) * 100) ];
 			
 			
 	    	}
 			else if(opInfl[0] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[106]) * 100) ];
 			
 			
 	    	}
 			else if(opInfl[1] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[107]) * 100) ];
 			
 			
 	    	}
 	    	else if(opInfl[2] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[108]) * 100) ];
 			
 			
 	    	}
 			else if(opInfl[3] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[109]) * 100) ];
 			
 			
 	    	}
 	    	else if(opInfl[4] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[110]) * 100) ];
 			
 			
 	    	}
 			else if(opInfl[5] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[111]) * 100) ];
 			
 			
 	    	}
 			
 			else if(opInfl[6] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[112]) * 100) ];
 			
 			
 	    	}
 			else if(opInfl[7] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[113]) * 100) ];
 			
 			
 	    	}
 	    	else if(opInfl[8] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[114]) * 100) ];
 			
 			
 	    	}
 			else if(opInfl[9] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[115]) * 100) ];
 			
 			
 	    	}
 	    	
 	    	else if(opInfl[10] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[116]) * 100) ];
 			
 			
 	    	}
 			else if(opInfl[11] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[117]) * 100) ];
 			
 			
 	    	}
 	    	
 	    	else if(opInfl[12] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[118]) * 100) ];
 			
 			
 	    	}
 			else if(mildOpInfl[0] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[119]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildOpInfl[1] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[120]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildOpInfl[2] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[121]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildOpInfl[3] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[122]) * 100) ];
+			
 			
 			
 	    	}
 	    	
 	    	else if(mildOpInfl[4] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[123]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildOpInfl[5] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[124]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildOpInfl[6] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[125]) * 100) ];
 			
 			
 	    	}
 	    	
 	    	else if(mildOpInfl[7] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[126]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildOpInfl[8] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[127]) * 100) ];
 			
 			
 	    	}
 	    	else if(mildOpInfl[9] == true){
 			
-			thisNMap().e[1:*]
+			thisNMap().e[1:*] =  new array[::] moduleNMapE[1 : thisNMap().e[1:*].toString() : 100/(2((double pos4(x,y) - double pos3(x,y)) * repaReffCodes[128]) * 100) ];
 			
 			
 	    	}
