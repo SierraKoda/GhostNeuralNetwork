@@ -1,0 +1,33 @@
+<horizontal_panel_wrap>
+  <vertical_panel_wrap>
+    <img_base_dual_wrapping_panel>
+      <XElement: 'bitStream'>
+        <XAttribute: 'bitObjStreaming'>
+          <XElement: 'src'></XElement:>
+          <XElement: 'buffer'></XElement:>
+          <XElement: 'bitstream'></XElement:>
+          <XElement: 'SSL_Type'></XElement:>
+          <XElement: 'timestamp'></XElement:>
+          <XElement: 'animDirectory'></XElement:>
+          <XElement: 'framerate'></XElement:>
+          <XElement: 'Encoding'></XElement:>
+          <XElement: 'Boolean'></XElement:>
+          <XElement: 'pixel ratio'></XElement:>
+          <XElement: 'Visible'></XElement:>
+          <XElement: 'isTrue'></XElement:>
+          <XElement: 'bufferEfficiency'></XElement:>
+        </XAttribute:>
+      </XElement:>
+      <XElement: 'inputReturnEntry'>
+        <XAttribute: 'textEntry'>
+          <XElement: 'Visible'></XElement:>
+          <XElement: 'isTrue'></XElement:>
+          <XElement: 'null'></XElement:>
+          <XElement: 'inputReturn'></XElement:>
+          <XElement: 'allocString([var])'></XElement:>
+          <XElement: 'return'></XElement:>
+        </XAttribute:>
+      </XElement:>
+    </img_base_dual_wrapping_panel>
+  </vertical_panel_wrap>
+</horizontal_panel_wrap>

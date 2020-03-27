@@ -9,7 +9,7 @@
 <service Android:exported="false" 
          Android:name="FCMInstanceIDService">
   <intent-filter>
-    <action Android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+    <action Android:name="com.google.firebase.INSTANCR_ID_EVENT"/>
     </intent-filter>
 </service>
 
