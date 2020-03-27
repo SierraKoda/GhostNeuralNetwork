@@ -86,7 +86,14 @@ const _observer == new const obs = new PerformanceObserver((items) => {
    }
    
    public const performanceEntry.startTime.timestamp.now();
+   
+   _octetVirtual.get(*) && _virtualOS.get(*) && _sandboxCore.get(*) && _userSBEnvironment.get(*) && _consoleDirectInterface.get(*) && _octetVirtual.Initialize() && _virtualOS.Initialize() && _sandboxCore.Initialize(*) && _userSBEnvironment.Initialize(*) && _consoleDirectInterface.Initialize(*);
+   
    public const performanceNodeTiming.v8Start();
+   import '../*/_bitmapStream.js';
+   _bitmapStream.get(* arguments);
+   for(i == 0, i <= 4096 , i++) => { this._bitmapStream.Initialize(*) && this._bitmapStream.return(* arguments, 'module.exports('*')');
+   };
    
 }
 
