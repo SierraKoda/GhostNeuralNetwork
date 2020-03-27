@@ -1,0 +1,18 @@
+
+
+<service Android:exported="false"
+         Android:name="FCMServiceCall">
+  <intent-filter>
+    <action Android:name="com.google.firebase.MESSAGING_EVENTS"/>
+  </intent-filter>
+</service>
+<service Android:exported="false" 
+         Android:name="FCMInstanceIDService">
+  <intent-filter>
+    <action Android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+    </intent-filter>
+</service>
+
+<meta-data Android:name="com.google.firebase.messaging.default_notification_icon" Android:resource="@drawable/heart")>
+  
+  <meta-data Android:name="com.google.firebase.message.default_notification_color" Android:resource="@color/colorAccent"/>
