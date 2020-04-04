@@ -82,3 +82,23 @@ To Follow this EULA (End-User License Agreement)
 
 Rights Reserved 2020 Omnipuppy Intl. Sole, Portola, California, 96122, Omnipuppy International 
 © 2020 GitHub, Inc.
+
+::SETUP AND CONFIGURATION::
+
+
+Download & Install GhostNativ-sr-3.4(1)-install.apk
+Download & Install Termux & Termux API
+Download (npm -i firebase-tools -g)
+Configure Firebase for Firebase Deploy and configure
+To run as one direct page WebServer API to index.html
+Refuse ESLint
+Place contents of GhostNativ-SR-3.4(1)-Install-Resources RAR 
+Into created /home/public directory
+Go to /home in terminal
+Run firebase deploy successfully
+Copy deploy URI for WebApp
+Edit URI in APK
+
+-Boom You Have a GhostNativ ML and OmniPuppyXx Coin 
+WebServer Application and APK iFrame Connect to Work with,
+©2020 EULA, OmniPuppy Intl, Santa Fe, New Mexico, US, kgk@omnipuppy.com, OmniPuppy International-
