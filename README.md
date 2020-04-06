@@ -1,5 +1,5 @@
-# GhostNeuralNetwork
-GhostNeuralNetwork is an upper-level provider based Object Oriented ML, AI, and Deep Learning project based C# Microsoft .NET and nodeJS
+# GhostNeuralNetwork :: GhostNativ-sr-3.4(1) #
+GhostNativ, aka the GhostNeuralNetwork, is an upper-level provider based Object Oriented ML, AI, and Deep Learning project based C# Microsoft .NET and nodeJS
 
 Nativization Made Capable By NODE.JS for the NDK and JS basis, and C# ASP.NET and configurable SQL
 Capabilities for Encouraged xPlatforming. Applied Demographic Frameworks
@@ -98,6 +98,25 @@ Go to /home in terminal
 Run firebase deploy successfully
 Copy deploy URI for WebApp
 Edit URI in APK
+
+::Access Without Installing and Configuring a Prototype::
+
+Download & Install APK Direct and Access Through
+APK WebServer Client
+
+- OR -
+
+::WebServer Access::
+
+Go to:
+
+ghostnativ.web.app
+
+-or-
+
+Go to:
+
+ghostnativ.firebaseapp
 
 -Boom You Have a GhostNativ ML and OmniPuppyXx Coin 
 WebServer Application and APK iFrame Connect to Work with,
