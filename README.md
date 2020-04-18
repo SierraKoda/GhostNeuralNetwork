@@ -27,8 +27,7 @@ sierrakoda@outlook.com
 
 GetschiGetschi@protonmail.com
 
-Rights Reserved 2020 Omnipuppy Intl. Sole, Portola, California, 96122, Omnipuppy International 
-© 2020 GitHub, Inc.
+©Copyright EULA 2020 Omnipuppy Intl. Sole, Portola, California, 96122, Omnipuppy International
 
 
 
@@ -80,8 +79,7 @@ By Omnipuppy International, for Employer Identification, please contact
 By Starting Or Continuing Usage You Acknowledge Having Read and Providing Agreement 
 To Follow this EULA (End-User License Agreement)
 
-Rights Reserved 2020 Omnipuppy Intl. Sole, Portola, California, 96122, Omnipuppy International 
-© 2020 GitHub, Inc.
+©Copyright EULA 2020 Omnipuppy International Sole, Torrance, California, US, Omnipuppy Intl.
 
 ::SETUP AND CONFIGURATION::
 
