@@ -1,0 +1,27 @@
+https://mainnet.infura.io/v3/6c3cc2ec874b4e8e977bdcb0204f9220
+wss://mainnet.infura.io/ws/v3/6c3cc2ec874b4e8e977bdcb0204f9220
+https://ipfs.infura.io/ipfs/6c3cc2ec874b4e8e977bdcb0204f9220
+https://ipfs.infura.io:5001/api/6c3cc2ec874b4e8e977bdcb0204f9220
+
+
+curl
+
+
+curl -H 'Content-Type: application/json' \
+      -X POST \
+      -d '{"id":1, "jsonrpc": "2.0", "method": "eth_getBalance","params":["0x1A447d5D190e4a7787B43A434BFaFbb4F8Ffb719", "latest"]}' \
+      https://mainnet.infura.io/v3/6c3cc2ec874b4e8e977bdcb0204f9220
+
+
+curl -X POST \
+-H "Content-Type: application/json" \ curl -X POST \
+-H "Content-Type: application/json" \
+--data '{"jsonrpc": "2.0", "id": 1, "method": "eth_blockNumber", "params": []}' \ https://mainnet.infura.io/v3/6c3cc2ec874b4e8e977bdcb0204f9220
+
+
+
+
+curl --user :96aa3613c2154457affa899da89a3650 \ https://ropsten.infura.io/v3/6c3cc2ec874b4e8e977bdcb0204f9220
+  
+  
+  
