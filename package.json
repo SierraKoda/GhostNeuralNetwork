@@ -1,0 +1,30 @@
+{
+  "name": "omnipuppyxx",
+  "version": "1.0.0",
+  "description": "omnipuppyxx generation one crypto-coin",
+  "main": "blockchain",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/sierrakoda.git"
+  },
+  "author": "Omnipuppy Intl",
+  "license": "SEE LICENSE IN EULA",
+  "bugs": {
+    "url": "https://github.com/github.com/sierrakoda/issues"
+  },
+  "homepage": "https://github.com/github.com/sierrakoda#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "local": "^0.3.3",
+    "run": "^1.4.0",
+    "sails": "^1.2.4",
+    "solc": "^0.6.4"
+  }
+}
