@@ -1,0 +1,56 @@
+<!DOCTYPE XML 3.4>
+<!-- Tagline Object and Legal -->
+<xml>
+<xmlns>
+<xelement:ci>
+<xelement:auth0/>
+<xtoken/>
+<xsession-id/>
+<xencoder>
+<HomeScreen>
+  <!--metadata     -->
+   <InitBar id="">
+       <InitTask id=""  ></InitTask>
+       <Instants></Instants>
+       <TaskRoll></TaskRoll>
+       <StockTicker></StockTicker>
+       <Search></Search>
+       <Alert></Alert>
+       <ScrollingNotifier></ScrollingNotifier>
+   </InitBar>
+       <MainWindow>
+         <CalendarQWidget></CalendarQWidget>
+         <ProcessPID></ProcessPID>
+         <Widget  id="" ></Widget>
+         <Widget  id="" ></Widget>
+         <Widget  id=""></Widget>
+         <icon# id=""></icon# >
+         <icon# id=""></icon# >
+         <icon# id=""></icon# >
+         <icon# id=""></icon# >       
+       </MainWindow>
+    <DockerRunner id="">
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+        <icon# id=""></icon# >
+    </DockerRunner>
+  <void/>
+</HomeScreen> 
+<xtokenProvider/>
+<xsign/>
+<xsession-id/>
+</xencoder>
+</xelement:ci>
+</xmlns>
+</xml>

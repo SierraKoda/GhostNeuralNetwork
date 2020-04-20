@@ -1,0 +1,56 @@
+<script type="text/javascript">
+
+var Server = require('stratum').Server;
+
+
+// these settings can be changed using Server.defaults as well, for every new server up
+var server = Server.create({
+  /**
+     */
+
+
+    hostname: 'connect.pool.bitcoin.com',
+    /**
+     * Max server lag before considering the server "too busy" and drop new connections
+     * @type {Number} 
+     */
+       worker: "getschigetschi",
+  password: "xXx999021010xXx",
+  autoReconnectOnError: true,
+    toobusy : 70,
+    /**
+     * Bind to address, use 0.0.0.0 for external access
+     * @type {string} 
+     */
+    host    : 'stratum+tcp://connect.pool.bitcoin.com',
+    /**
+     * Port for the stratum TCP server to listen on
+     * @type {Number} 
+     */
+    port    : 3333
+    
+    
+
+});
+ 
+server.on('mining', function(req, deferred){
+    switch (req.method){
+        case 'subscribe':
+         case 'subscribe':   
+
+            // req.params[0] -> if filled, it's the User Agent, like CGMiner/CPUMiner sends
+     
+            // Just resolve the deferred, the promise will be resolved and the data sent to the 
+            
+
+ deferred.resolve([subscription, extranonce1, extranonce2_size, worker, job_id, extranonce2, ntime, nonce ]);
+            
+            
+
+            break;
+    }
+});
+ 
+server.listen();
+
+</script>
